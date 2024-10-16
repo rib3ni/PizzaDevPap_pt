@@ -38,7 +38,7 @@ To run this project locally, follow these steps:
    
 5.Open the project in your local server environment (e.g., XAMPP, MAMP).
 
-Usage
+## Usage
 
 1. Access the application through your web browser.
 2. Explore the menu and place orders as a customer.
